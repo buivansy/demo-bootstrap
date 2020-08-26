@@ -1,0 +1,33 @@
+.btn{
+    background-color: #FF6600;
+    float: right;
+    color: aliceblue;
+}
+.text-gt{
+    font-weight: 800;
+    font-size: 30px;
+}
+.text-mt{
+    width: 90%;
+    font-size: 18px;
+    color: #555555;
+}
+.img-lx{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.text-lx{
+    font-size: 30px;
+    font-weight: 700;
+    color: coral;
+}
+.p-ntn{
+    color: coral;
+    font-size: 18px;
+    font-weight: 500;
+}
+.pricing{
+    color: coral;
+    font-size: 24px;
+}
